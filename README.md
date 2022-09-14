@@ -17,5 +17,5 @@ MASM input and output macros for signed integers using an array for storage.
 - Procedures may use local variables when appropriate.
 - The program must be fully documented and laid out according to the CS271 Style Guide. This includes a complete header block for identification, description, etc., a comment outline to explain each section of code, and proper procedure headers/documentation.
 
-## Screenshot
-![Example Output](MASM.PNG)
+## Output Example
+![Example](MASM.PNG)
