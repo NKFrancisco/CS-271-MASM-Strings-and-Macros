@@ -1,5 +1,5 @@
-# CS-271-MASM-Strings-and-Macros
-Input and Output macros for signed integers using an array.
+# CS 271 Computer Architecture and Assembly Language  
+MASM input and output macros for signed integers using an array for storage.
 
 ## Assignment Info 
 - User’s numeric input must be validated the hard way:
